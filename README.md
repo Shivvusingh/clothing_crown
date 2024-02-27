@@ -23,6 +23,5 @@
 - [Firebase Auth](https://firebase.google.com/docs/auth)
 - [Firestore](https://firebase.google.com/docs/firestore)
 - [Stripe Payment](https://stripe.com/docs/api)
-- [Netlify](https://www.netlify.com/)
 
 Thank you [Zero to Mastery academy](https://github.com/zero-to-mastery) for amazing Reactjs tutorial.
